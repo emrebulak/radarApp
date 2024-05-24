@@ -10,7 +10,7 @@
 }
 
 .leaflet-container {
-    height: 78vh;
+    height: 77vh;
 }
 
 .detail-modal{
@@ -24,6 +24,15 @@
     border-radius: 5px;
     padding: 10px;
     box-shadow: 2px 2px 20px #535bf2;
+}
+
+@media screen and (max-width: 768px){
+    .detail-modal{
+        width: 100%;
+        margin: 0;
+        height: 100vh;
+    }
+    
 }
 
 .close-btn-container{
@@ -166,3 +175,17 @@
     justify-content: center;
     align-items: center;
 }
+
+
+.pagination *{
+    background-color: #212529 !important;
+    color: white !important;
+  }
+
+  .pagination .active a{
+    background-color: #535bf2 !important;
+    border-color: #535bf2 !important;
+    color: white !important;
+    outline-color: #535bf2 !important;
+  }
+  

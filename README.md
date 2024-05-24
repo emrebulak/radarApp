@@ -1,8 +1,29 @@
-# React + Vite
+<img src="./src/assets/img/animation.gif" alt="Radar App">
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Radar App Projesi (TR)
 
-Currently, two official plugins are available:
+Radar App, uçuş api'sine sınırsız erişimle kullanarak uçakların koordinatlarını takip etmek gibi bir çok özellik sağlar. Özgün içerikler, kişiselleştirilmiş öneriler ve daha fazlası için hemen kullanmaya başlayın!
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Kullanılan Teknolojiler
+
+- HTML
+- CSS
+- JS
+- REACT
+- BOOTSTRAP
+- REDUX TOOLKIT
+- REDUX THUNK
+
+# Radar App Project (EN)
+
+Radar App provides many features such as tracking the coordinates of planes using it with unlimited access to the flight API. Start using now for original content, personalized recommendations and more!
+
+## Technologies Used
+
+- HTML
+- CSS
+- JS
+- REACT
+- BOOTSTRAP
+- REDUX TOOLKIT
+- REDUX THUNK
